@@ -1,0 +1,9 @@
+## <i class="fa fa-cubes" style="font-size:1em;"></i> 3C
+### <i class="fa fa-users" style="font-size:1em;"></i> 顧客
+about customer...
+
+### <i class="fa fa-building-o" style="font-size:1em;"></i> 競合
+about competitor...
+
+### <i class="fa fa-building" style="font-size:1em;"></i> 自社
+about company...
